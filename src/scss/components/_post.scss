@@ -121,12 +121,12 @@
   }
 
   &__footer {
-    background: var(--color-theme-highlight);
+    background: var(--color-theme-highlight-block);
 
     h2 {
       flex-shrink: 0;
       margin-right: get-size('base');
-      color: var(--color-text);
+      color: var(--color-footer-text);
     }
 
     h2 a {
