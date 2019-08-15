@@ -1,28 +1,14 @@
 ---
-title: A simple post
-date: '2019-06-18'
-tags:
-  - demo-content
-  - simple-post
-  - blog
+title: Starting out with Hylia kit
+date: '2019-08-15'
+tags: blog
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
+A simple post to test out how a normal blog post looks on Hylia.
 
-How about a `<blockquote>`?
+I am choosing Hylia as the starter template mainly because it has an inclusive design, dark mode and service worker support.
 
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+Focus styling and color scheme still neads to be tweaked.
 
-A list of stuff:
+The only concern I have is that, Github is warning me about two security vulnerabilites in this repo.
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
-
-How about an ordered list of stuff:
-
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
-
-
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+Hopefully, it should be resolved soon.
