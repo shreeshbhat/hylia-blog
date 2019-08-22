@@ -7,15 +7,6 @@
     },
     {
       "text": "GitHub",
-<<<<<<< HEAD
-      "url": "https://github.com/hankchizljaw/hylia",
-      "external": true
-    },
-    {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
-=======
       "url": "https://github.com/shreeshbhat",
       "external": true
     },
@@ -23,7 +14,6 @@
       "text": "Twitter",
       "url": "https://twitter.com/shreeshbhat",
       "external": true
->>>>>>> Initial commit
     }
   ]
 }
