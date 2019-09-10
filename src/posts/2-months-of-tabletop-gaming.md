@@ -43,7 +43,6 @@ Also, it can get chaotic with 4 players. I will consider trading this game away 
 ## Evolution
 In Evolution, we control different species and help them adapt to changing ecosystem, where predators lurk around and food is scarce.
 Theme is the main positive point of Evolution for me. Taking food to increase species population or body size is a challenge. 
-Assigning traits to evolve your species according to the situation is the challenge.
 
 Rules of this game were overwhelming at first to digest. After a couple of rounds, resolving player actions made sense. 
 Non-carnivore species have a slight advantage I felt and that's why I don't like this game as much for 2 players.
