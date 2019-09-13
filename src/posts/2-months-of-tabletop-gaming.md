@@ -84,7 +84,7 @@ One small issue I have is that some player token & cube colors merge in with the
 Sushi go is all about theme. The pick a card and pass mechanic works like a charm. 
 Easy to explain and has a good amount of replay value.
 
-I don't like the dummy player method for 2 players and not all cards are not balanced for duos. 
+I don't like the dummy player method for 2 players and not all cards are balanced for duos. 
 It is a great game for 3 to 5 players. 
 Will recommend checking out their big box version: Sushi Go Party!, which expands the player support count to 8. 
 The party version has a player board to keep track of each score, which I miss in the base version.
