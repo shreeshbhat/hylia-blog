@@ -1,9 +1,9 @@
 const jsdom = require('@tbranyen/jsdom');
-const {JSDOM} = jsdom;
+const { JSDOM } = jsdom;
 const minify = require('../utils/minify.js');
 const slugify = require('slugify');
 
-module.exports = function(value, outputPath) {
+module.exports = function (value, outputPath) {
   if (outputPath.endsWith('.html')) {
     const DOM = new JSDOM(value, {
       resources: 'usable'
@@ -23,17 +23,16 @@ module.exports = function(value, outputPath) {
         // If an image has a title it means that the user added a caption
         // so replace the image with a figure containing that image and a caption
         if (image.hasAttribute('title')) {
+          const figureContainer = document.createElement('div');
+          figureContainer.classList.add('flex-center');
           const figure = document.createElement('figure');
           const figCaption = document.createElement('figcaption');
-
           figCaption.innerHTML = image.getAttribute('title');
-
           image.removeAttribute('title');
-
           figure.appendChild(image.cloneNode(true));
           figure.appendChild(figCaption);
-
-          image.replaceWith(figure);
+          figureContainer.appendChild(figure.cloneNode(true));
+          image.replaceWith(figureContainer);
         }
       });
     }
