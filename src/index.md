@@ -3,7 +3,7 @@ layout: home
 title: Shreesh's corner
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Shreesh's personal blog'
+metaDesc: ''
 socialImage: ''
 ---
 Hi, I'm Shreesh Bhat, a Senior Software Engineer at Manhattan Associates, where I love building websites.
